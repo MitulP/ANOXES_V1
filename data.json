@@ -1,0 +1,201 @@
+{
+  "hero": {
+    "title": "Intelligent Software Solutions",
+    "subtitle": "End-to-end software development and digital transformation services across Healthcare, Industry 4.0, AI, and Medical Technology domains.",
+    "primaryButton": "Explore Our Services",
+    "secondaryButton": "View Portfolio"
+  },
+  "services": [
+    {
+      "id": 1,
+      "title": "Healthcare Solutions",
+      "description": "Digital transformation for healthcare providers with cutting-edge medical technology integration, HIPAA-compliant systems, and telemedicine platforms."
+    },
+    {
+      "id": 2,
+      "title": "Industry 4.0",
+      "description": "Smart manufacturing solutions with IoT integration, predictive maintenance, real-time monitoring, and data-driven automation for operational excellence."
+    },
+    {
+      "id": 3,
+      "title": "Artificial Intelligence",
+      "description": "Advanced AI/ML solutions using TensorFlow, PyTorch, and modern frameworks for intelligent automation, computer vision, and natural language processing."
+    },
+    {
+      "id": 4,
+      "title": "Custom IT Services",
+      "description": "End-to-end software development with modern tech stacks including React, Python, Node.js, cloud-native architectures, and DevOps practices."
+    }
+  ],
+  "technologies": [
+    {
+      "name": "React",
+      "category": "Frontend"
+    },
+    {
+      "name": "TypeScript",
+      "category": "Frontend"
+    },
+    {
+      "name": "Next.js",
+      "category": "Frontend"
+    },
+    {
+      "name": "Python",
+      "category": "Backend"
+    },
+    {
+      "name": "Django",
+      "category": "Backend"
+    },
+    {
+      "name": "Node.js",
+      "category": "Backend"
+    },
+    {
+      "name": "PostgreSQL",
+      "category": "Database"
+    },
+    {
+      "name": "MongoDB",
+      "category": "Database"
+    },
+    {
+      "name": "TensorFlow",
+      "category": "AI/ML"
+    },
+    {
+      "name": "PyTorch",
+      "category": "AI/ML"
+    },
+    {
+      "name": "AWS",
+      "category": "Cloud"
+    },
+    {
+      "name": "Docker",
+      "category": "DevOps"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": 1,
+      "title": "MedConnect - Telemedicine Platform",
+      "description": "Comprehensive telemedicine platform serving 50,000+ patients with real-time consultations, prescription management, and integrated EHR systems.",
+      "category": "Healthcare",
+      "technologies": [
+        "React",
+        "Node.js",
+        "PostgreSQL",
+        "WebRTC"
+      ],
+      "image": "/placeholder.svg",
+      "demoUrl": "https://demo.medconnect.com",
+      "githubUrl": "https://github.com/anoxes/medconnect",
+      "features": [
+        "Video Consultations",
+        "E-Prescriptions",
+        "Patient Records",
+        "Appointment Scheduling"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "SmartFactory Analytics",
+      "description": "IoT-enabled manufacturing analytics platform that reduced operational costs by 35% through predictive maintenance and real-time monitoring.",
+      "category": "Industry 4.0",
+      "technologies": [
+        "Python",
+        "TensorFlow",
+        "React",
+        "InfluxDB"
+      ],
+      "image": "/placeholder.svg",
+      "demoUrl": "https://demo.smartfactory.com",
+      "githubUrl": "https://github.com/anoxes/smartfactory",
+      "features": [
+        "Predictive Maintenance",
+        "Real-time Monitoring",
+        "Quality Control",
+        "Performance Analytics"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "AI-Powered Fraud Detection",
+      "description": "Machine learning system processing millions of transactions daily with 99.8% accuracy in fraud detection for financial institutions.",
+      "category": "AI/ML",
+      "technologies": [
+        "Python",
+        "TensorFlow",
+        "Apache Kafka",
+        "Redis"
+      ],
+      "image": "/placeholder.svg",
+      "demoUrl": "https://demo.frauddetect.com",
+      "githubUrl": "https://github.com/anoxes/fraud-detection",
+      "features": [
+        "Real-time Processing",
+        "Anomaly Detection",
+        "Risk Scoring",
+        "Compliance Reporting"
+      ]
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Dr. Sarah Johnson",
+      "role": "Chief Technology Officer",
+      "company": "MedTech Solutions Inc.",
+      "feedback": "Anoxes transformed our healthcare platform with cutting-edge AI integration. Their expertise in medical technology and HIPAA compliance is unmatched.",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "name": "Michael Chen",
+      "role": "Director of Operations",
+      "company": "SmartManufacturing Corp.",
+      "feedback": "The Industry 4.0 solutions provided by Anoxes revolutionized our manufacturing processes. Their IoT integration reduced downtime by 60%.",
+      "rating": 5
+    }
+  ],
+  "team": [
+    {
+      "id": 1,
+      "name": "Alex Thompson",
+      "role": "Chief Executive Officer",
+      "bio": "Visionary leader with 15+ years in tech innovation, specializing in digital transformation and strategic technology partnerships.",
+      "image": "/placeholder.svg"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Priya Patel",
+      "role": "Chief Technology Officer",
+      "bio": "PhD in Computer Science with expertise in AI/ML, healthcare technology, and scalable software architectures.",
+      "image": "/placeholder.svg"
+    }
+  ],
+  "contact": {
+    "address": "Silicon Valley Tech Park, 123 Innovation Drive, Suite 500, San Jose, CA 95110",
+    "phone": "+1 (555) 123-4567",
+    "email": "contact@anoxes.com",
+    "mapUrl": "https://maps.google.com"
+  },
+  "blog": [
+    {
+      "id": 1,
+      "title": "The Future of Healthcare Technology: AI-Driven Patient Care",
+      "excerpt": "Exploring how artificial intelligence is revolutionizing patient diagnosis, treatment planning, and healthcare delivery systems.",
+      "date": "2024-01-15",
+      "author": "Dr. Priya Patel"
+    },
+    {
+      "id": 2,
+      "title": "Industry 4.0: Smart Manufacturing in the Digital Age",
+      "excerpt": "How IoT, AI, and automation are transforming manufacturing processes and creating intelligent factories.",
+      "date": "2024-01-10",
+      "author": "Alex Thompson"
+    }
+  ]
+}
